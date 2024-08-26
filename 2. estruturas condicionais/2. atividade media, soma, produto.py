@@ -2,6 +2,8 @@ import os
 os.system("cls || clear") 
 
 numero1 = int(input("Digite aqui primeiro valor: "))
+numero1 = int(input("Digite aqui primeiro valor: "))
+numero1 = int(input("Digite aqui primeiro valor: "))
 numero2 = int(input("Digite aqui segundo valor: "))
 
 media = (numero1 + numero2) / 2
