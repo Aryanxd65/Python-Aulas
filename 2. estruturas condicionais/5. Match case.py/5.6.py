@@ -18,7 +18,7 @@ print("""
 
 mes = int(input("Digite um número de 1 a 12 pra escolher um mês do ano: "))
 
-match(dia):
+match(mes):
     case 1:
         print("JANEIRO ")
     case 2:
