@@ -18,4 +18,5 @@ while horas_usadas <= meta_horas:
 
 excedente = horas_usadas - meta_horas
 
-print(f"Total gasto de hrs:")
+print(f"Total gasto de hrs:{horas_usadas}")
+print(f"Horas excedidas: {excedente}")
